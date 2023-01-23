@@ -1,0 +1,3 @@
+module aastartAgain {
+	requires junit;
+}
